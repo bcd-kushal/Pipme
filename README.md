@@ -20,7 +20,7 @@ pip install pipme
 - **Automatic packaging**: Automatically creates distribution packages from your project files.
 - **Simple usage**: Just provide your PyPI access token, and pipme takes care of the rest.
 
-<hr>
+<hr />
 
 ## 🌻 Usage
 
