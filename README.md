@@ -11,7 +11,7 @@ pipme is a tool that simplifies the process of publishing Python projects to PyP
 pip install pipme
 ```
 
-<hr>
+<hr />
 
 ## ✨ Features
 
