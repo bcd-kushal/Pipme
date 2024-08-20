@@ -43,7 +43,7 @@ pipme
 - uploads to pip after requesting `access_token` from user
 
 
-<hr>
+<hr />
 
 
 ## 🤝 Contributions
