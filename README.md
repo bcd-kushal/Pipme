@@ -35,7 +35,7 @@ Then, navigate to your project root directory and run the following command to p
 ```bash
 pipme
 ```
-
+ 
 - creates new package folder with your project code inside it
 - adds `__init__.py` files to every directory as a necessary step
 - checks if such pip package already exists or not
