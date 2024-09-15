@@ -46,7 +46,7 @@ pipme
 
 ## 🤝 Contributions
 
-Contributions are welcome! 
+Contributions are welcome!
 
 If you have ideas for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
