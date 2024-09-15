@@ -22,7 +22,7 @@ pip install pipme
 
 <hr />
 
-## 🌻 Usage
+## 🌻 Usage 
 
 To use pipme, simply install it via pip:
 
