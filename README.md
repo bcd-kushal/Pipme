@@ -8,7 +8,7 @@
 pipme is a tool that simplifies the process of publishing Python projects to PyPI. It automates the process of packaging and uploading projects, making it easy for developers to share their Python packages with the world.
 
 ```bash
-pip install pipme
+pip install pipme 
 ```
 
 <hr />
