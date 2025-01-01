@@ -9,7 +9,6 @@ pipme is a tool that simplifies the process of publishing Python projects to PyP
 
 ```bash
 pip install pipme
-
 ```
 
 <hr />
